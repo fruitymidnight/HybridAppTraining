@@ -27,7 +27,7 @@ iOS及びAndroid開発環境を整えていること。
 
 ## 目次 ##
 
-1. 開発環境の構築
+1. [開発環境の構築](/doc/00-Introduction)
     - プラットフォームの追加
     - プラグインの追加
     - ビルド
@@ -36,7 +36,7 @@ iOS及びAndroid開発環境を整えていること。
 
 2. Webアプリの作成（without frameworks）
     - 画面構築
-    - 通信（XR）
+    - 通信（XHR）
 
 3. Angular JS
     - ブートストラップ
